@@ -6,9 +6,9 @@
 + 概念：我们的电脑屏幕是，是由一个一个“小点”组成的，每个“小点”，就是一个像素（px）。
 + 规律：像素点越小，呈现的内容就越清晰、越细腻
 
-<img src="Images\72.png" style="zoom:100%;" />
+<img src="https://cdn.jsdelivr.net/gh/doushabo/imagehost@main/cssimages/72.png" style="zoom:100%;" />
 
-<img src="Images\94.png" style="zoom:100%;" />
+<img src="https://cdn.jsdelivr.net/gh/doushabo/imagehost@main/cssimages/94.png" style="zoom:100%;" />
 
 > 注意点：如果电脑设置中开启了缩放，那么就会影响一些工具的测量结果，但这无所谓，因
 为我们工作中都是参考详细的设计稿，去给元素设置宽高
@@ -77,7 +77,7 @@ color: #ff998866;/* 可简为：#f986 */
 + HSL 是通过：色相、饱和度、亮度，来表示一个颜色的，格式为：hsl(色相,饱和度,亮度)
 	+ 色相：取值范围是 0~360 度，具体度数对应的颜色如下图
 	
-	<img src="Images\HSL.png" style="zoom:100%;" />
+	<img src="https://cdn.jsdelivr.net/gh/doushabo/imagehost@main/cssimages/HSL.png" style="zoom:100%;" />
 
 	+ 饱和度：取值范围是 0%~100% 。（向色相中对应颜色中添加灰色， 0% 全灰， 100% 没有
 	灰）
@@ -104,7 +104,7 @@ div {
 
 + 借助控制台看样式
 
-<img src="Images\kongzhitai.png" style="zoom:100%;" />
+<img src="https://cdn.jsdelivr.net/gh/doushabo/imagehost@main/cssimages/kongzhitai.png" style="zoom:100%;" />
 
 
 ### 字体族
